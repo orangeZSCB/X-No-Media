@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         X(No_Media);
-// @namespace    https://cdn.jsdelivr.net/gh/orangeZSCB/X-No-Media/MediaX.js
+// @namespace    https://cdn.jsdelivr.net/gh/orangeZSCB/X-No-Media/MediaX.user.js
 // @version      0.2
 // @description  自动为所有媒体内容添加模糊层
 // @author       Orange
